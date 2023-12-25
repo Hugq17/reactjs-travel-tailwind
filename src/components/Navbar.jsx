@@ -29,8 +29,8 @@ const Navbar = () => {
             </div>
 
             {/* Mobile menu dropdown */}
-
-            <div className='absolute left-0 top-0 w-full bg-gray-100/90 px-4 py-7 flex flex-col'> xem them absolute, left, top, w-full, px, py, flex-col
+            {/* xem them absolute, left, top, w-full, px, py, flex-col */}
+            <div className='absolute left-0 top-0 w-full bg-gray-100/90 px-4 py-7 flex flex-col'>
                 <ul>
                     <h1>BEACHES.</h1>
                     <li>Home</li>
